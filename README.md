@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+:boom: <b>Software Developer</b> from <b>New Delhi, India</b>. <br>
+:man_student: Final year BTECH Computer Science Student. <br>
+:star: Tech Blog : <a href="https://www.siliconvalleyoxford.com">SiliconValleyOxford</a>.
 <!--
 **fs0sp/fs0sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
