@@ -11,7 +11,7 @@
 
 <a href="https://github.com/fs0sp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=dark&hide_langs_below=1" />
-</a
+</a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=fs0sp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
