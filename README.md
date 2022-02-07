@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![GitHub Shivam](https://img.shields.io/github/followers/fs0sp?label=follow&style=social)](https://github.com/fs0sp)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=fs0sp&left_color=gray&right_color=blue)
 
 :boom: <b>Software Developer</b> from <b>New Delhi, India</b>. <br>
 :man_student: Final year BTECH Computer Science Student. <br>
