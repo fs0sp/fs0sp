@@ -6,7 +6,6 @@
 :boom: <b>Software Developer</b> from <b>New Delhi, India</b>. <br>
 :man_student: Final year BTECH Computer Science Student. <br>
 🌱 I’m currently learning JavaScript. <br>
-⚡ Fun fact: Playing Counter Strike since 12/12/12. <br>
 :star: Tech Blog : <a href="https://www.siliconvalleyoxford.com">SiliconValleyOxford</a>. <br>
 
 ### Languages and Tools:
