@@ -5,7 +5,7 @@
 
 :boom: <b>Software Developer</b> from <b>New Delhi, India</b>. <br>
 :man_student: Final year BTECH Computer Science Student. <br>
-🌱 I’m currently learning JavaScript. <br>
+🌱 I’m currently learning React. <br>
 :star: Tech Blog : <a href="https://www.siliconvalleyoxford.com">SiliconValleyOxford</a>. <br>
 
 ### Languages and Tools:
